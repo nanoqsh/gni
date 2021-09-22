@@ -1,0 +1,9 @@
+[package]
+name = "gni_bin"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+gni = { path = "./gni" }
+glow = "0.11"
+glutin = "0.27"
